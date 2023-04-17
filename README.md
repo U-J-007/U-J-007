@@ -1,5 +1,14 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://github.com/U-J-007)
-
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+  <header id="masthead" style="background-color: #f0f0f0; padding: 20px;">
+    <!-- Your masthead content goes here -->
+    <a href="https://github.com/U-J-007">
+      <img id="masthead-image" src="https://i.redd.it/lhnvupvps4h91.gif" alt="MasterHead">
+    </a>
+  </header>
 
 
 
@@ -55,5 +64,31 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=u-j-007&show_icons=true&locale=en" alt="u-j-007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=u-j-007&" alt="u-j-007" /></p>
-<img src="https://i.redd.it/lhnvupvps4h91.gif" alt="Reddit Post Image">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <script>
+    // Get the masthead image element
+    var mastheadImage = document.getElementById('masthead-image');
+
+    // Add an event listener for the 'load' event
+    mastheadImage.addEventListener('load', function() {
+      // Update the masthead content with a new image URL
+      mastheadImage.src = 'http://surl.li/gkxvv';
+    });
+  </script>
+</body>
+</html>
