@@ -42,7 +42,7 @@
 </p>
 
 
-<img align="right" alt="Coding" width="350" height="130" align="centre" src="https://media2.giphy.com/media/QfXKe522OEagWgTVpf/giphy.gif">
+<img align="right" alt="Coding" width="100" height="50" align="centre" src="https://media2.giphy.com/media/QfXKe522OEagWgTVpf/giphy.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=u-j-007" alt="u-j-007" /></a> </p>
