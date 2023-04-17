@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-  <header id="masthead" style="background-color: #f0f0f0; padding: 20px;">
-    <!-- Your masthead content goes here -->
-    <a href="https://github.com/U-J-007">
-      <img id="masthead-image" src="https://i.redd.it/lhnvupvps4h91.gif" alt="MasterHead">
-    </a>
-  </header>
+[![MasterHead](http://surl.li/gkxvv)](https://github.com/U-J-007)
+
 
 
 
@@ -65,30 +56,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=u-j-007&" alt="u-j-007" /></p>
 
+<img src="https://i.redd.it/lhnvupvps4h91.gif" alt="Reddit Post Image">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <script>
-    // Get the masthead image element
-    var mastheadImage = document.getElementById('masthead-image');
-
-    // Add an event listener for the 'load' event
-    mastheadImage.addEventListener('load', function() {
-      // Update the masthead content with a new image URL
-      mastheadImage.src = 'http://surl.li/gkxvv';
-    });
-  </script>
-</body>
-</html>
