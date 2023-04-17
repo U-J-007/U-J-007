@@ -5,17 +5,12 @@
 
 <h1 align="center">Hi 👋, I'm Utkarsh Jambhulkar</h1>
 <h3 align="center">A passionate .......... figuring out❓</h3>
-<img align="right" alt="Coding" width="300" height="200" align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+<img align="right" alt="Coding" width="400" height="200" align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=u-j-007&label=Profile%20views&color=0e75b6&style=flat" alt="u-j-007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=u-j-007" alt="u-j-007" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/utkarshurj2" target="blank"><img src="https://img.shields.io/twitter/follow/utkarshurj2?logo=twitter&style=for-the-badge" alt="utkarshurj2" /></a> </p>
 
-<img align="right" alt="Coding" width="150" height="100" align="right" src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-jumbo.gif?quality=75&auto=webp"> 
 
-<img align="right" alt="Coding" width="150" height="100" align="right" src="https://media2.giphy.com/media/QfXKe522OEagWgTVpf/giphy.gif">
 
 
 - 🔭 I’m currently working on **Real time sign language recognition system for deaf/dumb with voice conversion**
@@ -26,7 +21,7 @@
 
 - 🤝 I’m looking for help with **career 🥹**
 
-- 📝 I regularly write articles on [https://ujbolte.hashnode.dev/](https://ujbolte.hashnode.dev/)
+- 📝 I regularly write articles on [https://ujbolte.hashnode.dev/](https://ujbolte.hashnode.dev/)  <img align="right" alt="Coding" width="400" height="200" align="right" src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-jumbo.gif?quality=75&auto=webp"> 
 
 - 💬 Ask me about **trading📉📈**
 
@@ -34,7 +29,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/utkarshjambhulkar](https://www.linkedin.com/in/utkarshjambhulkar)
 
-- ⚡ Fun fact **Ky bolte public, machare ki nahi**
+- ⚡ Fun fact **Ky bolte public, machare ki nahi** 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,6 +40,14 @@
 <a href="https://hashnode.com/@ujbolte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ujbolte" height="30" width="40" /></a>
 <a href="https://discord.gg/UJ#2203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UJ#2203" height="30" width="40" /></a>
 </p>
+
+
+<img align="right" alt="Coding" width="350" height="130" align="centre" src="https://media2.giphy.com/media/QfXKe522OEagWgTVpf/giphy.gif">
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=u-j-007" alt="u-j-007" /></a> </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
