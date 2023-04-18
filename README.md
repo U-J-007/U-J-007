@@ -20,15 +20,11 @@
 
 - 👯 I’m looking to collaborate on **anything, just want to learn new stuffs😉**
 
-- 🤝 I’m looking for help with **career 🥹**
-
-- 📝 I regularly write articles on [https://ujbolte.hashnode.dev/](https://ujbolte.hashnode.dev/)  <img align="right" alt="Coding" width="400" height="200" align="right" src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-jumbo.gif?quality=75&auto=webp"> 
+- 🤝 I’m looking for help with **career 🥹** 
 
 - 💬 Ask me about **trading📉📈**
 
 - 📫 How to reach me **utkarshjambhulkar8999@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/utkarshjambhulkar](https://www.linkedin.com/in/utkarshjambhulkar)
 
 - ⚡ Fun fact **Ky bolte public, machare ki nahi** 
 
